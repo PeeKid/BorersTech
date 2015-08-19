@@ -1,3 +1,8 @@
-# BorersTech
-My company website
-我想成为一个优秀的产品经历
+### 产品那点事
+#第一课
+I get 10 times more traffic from [Google] [1] than from
+[Yahoo] [2] or [MSN] [3].
+
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://search.msn.com/    "MSN Search"
